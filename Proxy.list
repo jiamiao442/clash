@@ -2,7 +2,9 @@
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
+# github
 IP-CIDR,185.199.109.154/16,no-resolve
+IP-CIDR,140.82.113.4/16,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
